@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Im too lazy to introduce myself
 <!--
 **Aluckyp7/Aluckyp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
